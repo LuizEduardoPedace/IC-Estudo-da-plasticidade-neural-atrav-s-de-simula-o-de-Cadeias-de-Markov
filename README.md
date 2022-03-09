@@ -1,7 +1,9 @@
 # IC-Estudo-da-plasticidade-neural-atrav-s-de-simula-o-de-Cadeias-de-Markov
 Simulações utilizadas na iniciação científica "Estudo da plasticidade neural através de simulação de Cadeias de Markov"
 
-IC 2021 - Neural Network (0).py: Rede neural determinística sem corrente de vazamento e plasticidade.\n
+IC 2021 - Neural Network (0).py: Rede neural determinística sem corrente de vazamento e plasticidade.
+
+
 IC 2021 - Neural Network (1).py: Rede neural introduzida na seção "Modelo de Rede Neural"
 IC 2021 - Neural Network (2.0).py: Rede neural introduzida na seção "Modelo de plasticidade para neurônios excitatórios"
 IC 2021 - Neural Network (2.1).py: Rede neural introduzida na seção "Plasticidade com limite superior para os pesos sinápticos"
