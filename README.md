@@ -29,3 +29,9 @@ IC 2021 - Neural Network (4.0) (New).py: Rede neural introduzida no final da se�
 IC 2021 - Neural Network (5.0).py: Rede neural introduzida na seção "Modelo sem excitação externa"
 
 IC 2021 - Neural Network (5.1).py: Rede neural introduzida na seção "Nova plasticidade sem limites inferior e superior"
+
+IC 2021 - Neural Network (5.2).py: Rede neural introduzida na seção "Próximos Passos"
+
+IC 2021 - Neural Network (5.3).py: Rede neural introduzida na subseção "Modelo de plasticidade sem limites reajustado"
+
+IC 2021 - Neural Network (5.4).py: Rede neural introduzida na subseção "Fenômeno da exclusão de neurônios"
